@@ -68,6 +68,11 @@ streamlit run app.py
 
 ------------------------------------------------------------------------
 
+## 🌐 Live Demo  
+🚀 Try the app here: [Temperature Converter Web App](https://muhammad-imran-akbar.streamlit.app/)
+
+------------------------------------------------------------------------
+
 ## 👨‍💻 Author
 
 Developed with ❤️ by **Muhammad Imran Akbar**

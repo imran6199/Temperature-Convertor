@@ -4,6 +4,12 @@ from utils.temp_conversions import (
     fahrenheit_to_celsius, fahrenheit_to_kelvin,
     kelvin_to_celsius, kelvin_to_fahrenheit
 )
+# Set page config
+st.set_page_config(
+    page_title="Temperature Converter 🌡️",  # Title shown in browser tab
+    page_icon="🌡️",                          # Favicon (emoji or image path)
+    layout="centered"                        # Can be "wide" or "centered"
+)
 
 st.title("🌡️ Temperature Converter")
 

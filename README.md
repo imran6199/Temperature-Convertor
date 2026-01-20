@@ -1,4 +1,4 @@
-# 🌡️ Temperature Converter
+# 🌡️ Temperature Converter --
 
 An interactive Temperature Converter Web App built with Python and
 Streamlit. This app allows users to easily convert between Celsius (°C),
